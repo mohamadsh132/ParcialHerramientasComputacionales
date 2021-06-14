@@ -29,7 +29,9 @@ De las estrategias de depuración usamos La estrategia que más utilizo es vuelt
 
 
 Integrantes: Mohamad Shayeb, Andres Diaz
+
 Parcial de Herramientas computacionales
+
 Punto A
 
 
