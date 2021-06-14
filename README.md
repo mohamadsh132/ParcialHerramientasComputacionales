@@ -7,7 +7,7 @@
 **Punto B**
 
 
-1.Qué tipo de errores se presentaron o se pueden presentar con su implementación al problema?
+**1.Qué tipo de errores se presentaron o se pueden presentar con su implementación al problema?**
 
 •	se le pide al usuario responder con dos opciones (Estudiante/Docente) y el usuario ingresa un valor o respuesta distinto a las opciones dadas.
 
@@ -20,7 +20,7 @@ Los errores producto de entrada del usuario son de errores en tiempo de ejecuci�
 
 Los errores producto de la estructura del código al compilarlo son errores de sintaxis.
 
-2. Que estrategias podría usar para solucionar estos errores?
+**2. Que estrategias podría usar para solucionar estos errores?**
 
 Los errores en tiempo de ejecución fueron solucionados mediante la implementación de validaciones frente a los casos de error como por ejemplo validación de tipos de datos y excepciones al leer los datos.
 
@@ -28,11 +28,11 @@ De las estrategias de depuración usamos La estrategia que más utilizo es vuelt
 
 
 
-Integrantes: Mohamad Shayeb, Andres Diaz
+**Integrantes: Mohamad Shayeb, Andres Diaz**
 
-Parcial de Herramientas computacionales
+**Parcial de Herramientas computacionales**
 
-Punto A
+**Punto A**
 
 
 
@@ -122,5 +122,47 @@ def cafeteriaDescuento():
             
 cafeteriaDescuento()   
 
-Documentación en Software: 
+**Documentación en Software:**
+
+**PROBLEMA**
+
+Para recuperarse un poco del tiempo en cuarentena, las cafeterias de la universidad se encuentran dando descuentos a la comunidad estudiantil y dependiendo si es estudiante o profesor, tienen descuentos diferentes. Se desea saber entonces por cada compra cuanto debe pagar el usuario en caja. Para ello:
+
+**Pida por teclado la siguiente informacion para el cliente: cedula y rol: profesor o estudiante** 
+
+**Registrar el producto a comprar: codigo producto, cantidad de unidades y precio del producto. (un solo producto, varias unidades, por ejemplo: producto 076: gaseosa, 3 unidades)**
+
+**Los descuentos estan dados de la siguiente forma: los estudiantes tienen un 50 % de descuento mientras que los profesores tienen un 20 % de descuento**
+
+Al final el procedimiento por cada cliente deber´a imprimir el valor a pagar por sus productosde la forma: ”El Rol con cedula Numero, debe pagar Valor por el producto Codigo” Ejemplo: ”El profesor con Cedula 1454898 debe pagar $12.900 por el producto 076”.Tenga en cuenta que este valor final a pagar corresponde al precio de cada producto por lacantidad llevada menos el descuento otorgado, debe imprimir el rol y la cedula de cada cliente y el codigo del producto llevado en el mensaje.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         
