@@ -35,6 +35,7 @@ Punto A
 
 
 
+
 def cafeteriaDescuento():
 
     cantidad=0
@@ -117,6 +118,5 @@ def cafeteriaDescuento():
         # salir del ciclo
         if option == '0': break
             
-        
 cafeteriaDescuento()        
         
