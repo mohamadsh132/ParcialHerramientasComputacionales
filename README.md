@@ -1,5 +1,7 @@
 # ParcialHerramientasComputacionales
 
+**Nombre: Mohamad Shayeb**
+
 **Parcial de Herramientas Computacionales**
 
 **Punto B**
