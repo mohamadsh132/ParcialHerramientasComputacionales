@@ -25,11 +25,14 @@ Los errores en tiempo de ejecución fueron solucionados mediante la implementaci
 De las estrategias de depuración usamos La estrategia que más utilizo es vuelta atrás.
 
 
-"""
+
 Integrantes: Mohamad Shayeb, Andres Diaz
 Parcial de Herramientas computacionales
 Punto A
-"""
+
+
+
+
 def cafeteriaDescuento():
 
     cantidad=0
