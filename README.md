@@ -137,11 +137,39 @@ Para recuperarse un poco del tiempo en cuarentena, las cafeterias de la universi
 Al final el procedimiento por cada cliente deber´a imprimir el valor a pagar por sus productosde la forma: ”El Rol con cedula Numero, debe pagar Valor por el producto Codigo” Ejemplo: ”El profesor con Cedula 1454898 debe pagar $12.900 por el producto 076”.Tenga en cuenta que este valor final a pagar corresponde al precio de cada producto por lacantidad llevada menos el descuento otorgado, debe imprimir el rol y la cedula de cada cliente y el codigo del producto llevado en el mensaje.
 
 
+El modelo computacional que usamos fue el Idle de python
 
+**Input** 
 
+Seleccione una opción:
 
+(1) Realizar compra
 
+(0) Salir
 
+Opción: 1
+
+¿Es Estudiante o Docente de la universidad?(Estudiante/Docente): Estudiante
+
+Se le a identificado como estudiante
+
+Ingrese su cédula: 9393939393
+
+Ingrese el codigo del producto: 079
+
+Ingrese el precio del producto: 2000
+
+Ingrese la cantidad de unidades del producto:4
+
+4000.0
+
+**Output** 
+
+El Estudiante con cedula 9393939393 debe pagar 4000.0 por el producto 079
+
+**¿Como lo calcula?**
+
+Si al correr el codigo se le identifica al programa que entro como Estudiante se le hace el descuento indicado el cual es el 50 porciento y si entra como docente se le aplica el 20 porciento.
 
 
 
