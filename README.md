@@ -1,6 +1,6 @@
 # ParcialHerramientasComputacionales
 
-**Nombre: Mohamad Shayeb**
+**Nombre: Mohamad Shayeb/ Andres Diaz**
 
 **Parcial de Herramientas Computacionales**
 
